@@ -11,7 +11,7 @@ Our data is from a kaggle competition, which is provided by Avazu, a service pro
 Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 
 ## Approach [unfinished]
-- Data is toraged on AWS S3 bucket
+- Data is storaged on AWS S3 bucket
 - Dashboarding through AWS Quicksignt for EDA
 - ***xxx***
 ![Alt text](/ProcessFlow.png)
