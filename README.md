@@ -1,7 +1,7 @@
 # Project Overview
-## Key Question [unfinished]
-1. How can we utilize AWS services to provide a robust data exploration and ML pipeline that predicts the likelihood of advertisements being clicked?
-2. ***xxx***
+## Key Question
+How can we utilize AWS services to provide a robust data exploration and ML pipeline that predicts the likelihood of advertisements being clicked?
+
 ## Topic
 In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding. For business promoters, they want to promote products in most effective ways which means they want to choose advertisements with high CTR. In this project, out goal is to predict the performance of advertisements before lauching them.
 
