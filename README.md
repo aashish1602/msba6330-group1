@@ -10,5 +10,5 @@ Our data is from a kaggle competition, which is provided by Avazu, a service pro
 Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 
 ## Approach
-
+![Alt text](/msba6330-group1/trendsrm1.png)
 
