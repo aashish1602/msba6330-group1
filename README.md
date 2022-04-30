@@ -13,5 +13,5 @@ Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 ![Alt text](/trendsrm1.png)
 
 ## Dashboard Demo
-![Alt text](/dashboard_demo.png)
+![Alt text](/dashboard_demo.jpg)
 
