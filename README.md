@@ -1,9 +1,9 @@
 # Project Overview
 ## Key Question [unfinished]
-How can we utilize AWS services to provide a robust data exploration and ML pipeline that predicts the likelihood of advertisements being clicked?
-
+1. How can we utilize AWS services to provide a robust data exploration and ML pipeline that predicts the likelihood of advertisements being clicked?
+2. ***xxx***
 ## Topic
-In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding. For business promoters, they want to promote products in most effective ways which means they want to choose advertisements with high CTR. In this project, out goal is to predict the performance of advertisements before being lauched.
+In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding. For business promoters, they want to promote products in most effective ways which means they want to choose advertisements with high CTR. In this project, out goal is to predict the performance of advertisements before lauching them.
 
 ## Dataset
 Our data is from a kaggle competition, which is provided by Avazu, a service provider of online advertising and digital marketing with its focus on globalized PC and mobile internet advertising. We have 10 days of click-through data containing 6 GB total and one day of ads for testing model predictions.
@@ -11,8 +11,9 @@ Our data is from a kaggle competition, which is provided by Avazu, a service pro
 Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 
 ## Approach [unfinished]
+- Data is toraged on AWS S3 bucket
 - Dashboarding through AWS Quicksignt for EDA
-- ***xxxxx***
+- ***xxx***
 ![Alt text](/trendsrm1.png)
 
 ## Dashboard Demo
