@@ -23,4 +23,4 @@ We connect data stored in S3 bucket to Quicksight for dashboarding. Quicksight h
 ![Alt text](/dashboard_demo.jpg)
 
 ## Main Files [unfinished]
-```msba6330-trends-ml-pipeline_final.ipynb```:
+```msba6330-trends-ml-pipeline_final.ipynb```: Script to import data from S3 and run ML algorithm to make predictions.
