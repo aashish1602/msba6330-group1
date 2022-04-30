@@ -13,5 +13,8 @@ Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 ![Alt text](/trendsrm1.png)
 
 ## Dashboard Demo
+We connect data stored in S3 bucket to Quicksight for dashboarding. Quicksight handled 6GB data for visualization and updated in less than 10 seconds for updating the entire dashboard.
 ![Alt text](/dashboard_demo.jpg)
+
+# Main Files
 
