@@ -12,8 +12,9 @@ Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 
 ## Approach [unfinished]
 - Data is storaged on AWS S3 bucket
-- Dashboarding through AWS Quicksignt for EDA
-- ***xxx***
+- Data Visualization & Key Trends & Insights on AWS Quicksight
+- Feature Exploration and Data Summaries on Data Wrangler
+- Building ML model using Python libraries under AWS Sagemaker
 ![Alt text](/ProcessFlow.png)
 
 ## Dashboard Demo
