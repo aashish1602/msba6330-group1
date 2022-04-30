@@ -14,7 +14,7 @@ Data Source Link: https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 - Data is toraged on AWS S3 bucket
 - Dashboarding through AWS Quicksignt for EDA
 - ***xxx***
-![Alt text](/Process Flow.png)
+![Alt text](/ProcessFlow.png)
 
 ## Dashboard Demo
 We connect data stored in S3 bucket to Quicksight for dashboarding. Quicksight handled 6GB data for visualization and updated in less than 10 seconds for the entire dashboard, showing it's a powerful tool for EDA.
